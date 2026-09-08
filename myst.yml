@@ -9,7 +9,7 @@ project:
     - 言情小说
   authors:
     - name: 量潮科技
-  github: https://github.com/quanttide/quanttide-founder
+  github: https://github.com/quanttide-founder/quanttide-founder
   license: Proprietary
   exclude:
     - CHANGELOG.md
