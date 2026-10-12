@@ -1,5 +1,11 @@
 # Changelog
 
+## [Unreleased]
+
+### Changed
+
+- 主仓库子模块路径 `assets/memory` → `assets/context`、主仓库与本文档所属组织迁至 `quanttide`，本库引用同步（AGENTS.md、myst.yml）
+
 ## [1.2.0] - 2026-09-26
 
 **定位说明**：创作记忆与作品正文分库——创作谈、创作日志整体迁至 `assets/memory` 的 `write/` 记忆集，本库专注三部小说正文；同步完成目录整理与新一轮稿件沉淀。
