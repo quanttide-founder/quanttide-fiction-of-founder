@@ -4,7 +4,7 @@
 
 ### Changed
 
-- 主仓库子模块路径 `assets/memory` → `assets/context`、主仓库与本文档所属组织迁至 `quanttide`，本库引用同步（AGENTS.md、myst.yml）
+- 主仓库子模块路径 `assets/memory` → `assets/context` → `data/context`、主仓库与本文档所属组织迁至 `quanttide`，本库引用同步（AGENTS.md、myst.yml）
 
 ## [1.2.0] - 2026-09-26
 
